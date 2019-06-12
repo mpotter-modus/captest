@@ -1,0 +1,7 @@
+{
+  "appId": "com.marko.captest",
+  "appName": "Cap Test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
